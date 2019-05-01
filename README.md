@@ -1,2 +1,5 @@
 # Login
-Gabut
+
+#### Requirements:
+- Python
+- Selenium `pip install selenium`
